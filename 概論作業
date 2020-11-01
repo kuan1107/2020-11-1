@@ -1,0 +1,18 @@
+NAS網路附接儲存體
+1.network attached storage 2. 資料儲存 3.以檔案為單位的的通訊協定 4. 不安全 5.直接接在網路上的一或多個硬碟機
+SAN儲存區域網路
+1.storage area network 2.很貴 3.光纖通道 4.大型，高效能的企業儲存 5.儲存虛擬化
+
+網路加密
+WEP (Wired Equivalent Privacy) 有限等效加密
+保護無線網路資料安全，用無線電傳播訊息，容易被竊聽。
+WPA (Wi-Fi Protected Access) Wi-Fi存取保護
+WPA2 (Wi-Fi Protected Access version2)
+WPA3
+
+RFID(radio frequency identification) 無限射頻辨識
+NFC(near field communication) 進場無線通訊
+
+行動網路，蜂巢式網路(cellular network)
+
+啟用並設定MAC(Media Access Control)位址控制功能
