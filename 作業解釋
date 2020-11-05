@@ -23,12 +23,10 @@ WPA (Wi-Fi Protected Access) Wi-Fi存取保護
 1.Wi-Fi聯盟（The Wi-Fi Alliance）這個業界團體建立的
 2.保護無線網路（Wi-Fi）存取安全的技術標準
 3.可以用在所有的無線網卡上，但未必能用在第一代的無線存取點上
-
 WPA2 (Wi-Fi Protected Access version2)
 1.家用路由器常用的加密技術
 2.透過無線路由器的組態設定工具，就能指定加密類型，以及想設定的無線網路金鑰
 3.只要用web瀏覽器就能開啟畫面
-
 WPA3
 1.2018年1月，Wi-Fi聯盟宣布將於年內發布包含眾多對安全性改進的WPA3，它將會取代WPA2
 
